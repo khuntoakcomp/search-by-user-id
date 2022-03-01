@@ -21,8 +21,7 @@ async def test(ctx, id):
     if member:
         display_name = member.display_name
         await ctx.channel.send('{} -> username : **{}**'.format(author_name, member))
-        print("username is {}".format(member))
     else:
-        print("not found this user")
+        await ctx.channel.send('{} -> NOT FOUND THIS USER!!'.format(author_name))
 
 bot.run(TOKEN)
