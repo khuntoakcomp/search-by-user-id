@@ -3,6 +3,7 @@
 > Discord Bot for reduce chance of NOT FOUND USER when search by username
 
 ## How to run
+> pip install requirements.txt
 > python bot.py
 
 ## USECASE
