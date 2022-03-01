@@ -3,6 +3,7 @@
 > Discord Bot for reduce chance of NOT FOUND USER when search by username
 
 ## USECASE
+> Command : $user_id {user_id of searched user}
 - search online user
 ![SearchOnlineUser](https://user-images.githubusercontent.com/97789358/156224589-07084ecb-06e3-4fa2-941c-7e43ec8ebbe3.png)
 - search offline user
